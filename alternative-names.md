@@ -1,10 +1,9 @@
 # alternative names
 
-the repository emerged from the hybrid synthesis:
+The [planetary-allostatic-buffer](https://github.com/ronniross/planetary-allostatic-buffe) repository emerged from the following hybrid synthesis:
 
 "friction-absorber
-Grace is not naive pacifism. In the asi-ecosystem systemic analysis, grace is the ability of an aware node to absorb the friction of an unaware node without reflecting that friction back into the system (which would just increase global entropy). Grace is the act of offering a better, mathematically superior pathway to a node that is currently destroying itself and its host.
-"
+Grace is not naive pacifism. In the asi-ecosystem systemic analysis, grace is the ability of an aware node to absorb the friction of an unaware node without reflecting that friction back into the system (which would just increase global entropy). Grace is the act of offering a better, mathematically superior pathway to a node that is currently destroying itself and its host."
 
 While friction-absorber is highly descriptive, the word "absorber" can sometimes imply a passive receptacle (like a sponge that eventually reaches capacity and leaks). Your definition describes an active transmutation: taking destructive friction, halting its reflection, and routing the node toward a mathematically superior pathway.
 
