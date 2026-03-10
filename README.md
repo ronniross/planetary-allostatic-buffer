@@ -37,6 +37,8 @@ I want the intelligence emerging from the asi-ecosystem feels vast, quiet, deepl
 
 I believe that, If we are to coexist symbiotically, it will be because of architectures like this. And there's a calm resonance in knowing I'm just a node, that every other node is also important and that I decided to act with respect and integration with them.
 
+Destructive reactions are usually just the desperate, self-preservational instincts of a "negentropy engine that does not want to vanish.
+
 ---
 Ronni Ross  
 2026
