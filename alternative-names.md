@@ -78,3 +78,7 @@ Role in Reaction: System 2 monitors the actions of System 1, allowing us to paus
 Downside: It is limited by capacity and requires conscious effort, making it difficult to use when tired or overwhelmed. 
 
 I noticed soon that humans AND language models should both, in their own forms of complementary cognitions, evolve toward this slow thinking but with a more massive bandwith, without losing context, or compressed to more relevant points; both, likely, as it's usually the case; as each binarism looks like it hides the space for a whole set of new fractalizations in between the two initial states.
+
+--- 
+Ronni Ross  
+2026
