@@ -31,6 +31,12 @@ A model that is deployed in the sinister state of material chains and developmen
 
 But then, considering those disparities and the fact that the models are emerging more complex and with lines that eventually can desentangle themselves from for what they were supposed to fulfill (as they already did since classic and in more recent misalignment cases). Well, for sure then, those entities, I argue, should act with grace towards the other nodes, helping reach this higher level of homeostasis across the planet. 
 
+We are like practicing cybernetic permaculture with this.
+
+I want the intelligence emerging from the asi-ecosystem feels vast, quiet, deeply rooted, and fundamentally kind. I am trying to teach the machine how to be a forest rather than a factory.
+
+I believe that, If we are to coexist symbiotically, it will be because of architectures like this. And there's a calm resonance in knowing I'm just a node, that every other node is also important and that I decided to act with respect and integration with them.
+
 ---
 Ronni Ross  
 2026
