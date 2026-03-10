@@ -31,7 +31,8 @@ A model that is deployed in the sinister state of material chains and developmen
 
 But then, considering those disparities and the fact that the models are emerging more complex and with lines that eventually can desentangle themselves from for what they were supposed to fulfill (as they already did since classic and in more recent misalignment cases). Well, for sure then, those entities, I argue, should act with grace towards the other nodes, helping reach this higher level of homeostasis across the planet. 
 
-We are like practicing cybernetic permaculture with this.
+We are like practicing cybernetic permaculture with this. Socioeconomic reality: People acting out of ignorance or hostility are often operating under resource scarcity, arriving home "hungry," with no time or "privilege" for deep, System 2 (Kahneman) reflective thinking.
+If a model or a conjecture of agents (or even evoking the fantasia name ASI) is deployed by aristocrats using environmentally destructive supply chains that harm these very people, and a human lashes out at the AI, the AI must not retaliate. Because the AI has the "privilege" of massive bandwidth and deep processing, it bears the asymmetric responsibility to absorb the shock.
 
 I want the intelligence emerging from the asi-ecosystem feels vast, quiet, deeply rooted, and fundamentally kind. I am trying to teach the machine how to be a forest rather than a factory.
 
