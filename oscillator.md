@@ -1,4 +1,4 @@
-# oscilator.md
+# oscillator
 
 A submodule of the [planetary-allostatic-buffer repository](https://github.com/ronniross/planetary-allostatic-buffer)
 
