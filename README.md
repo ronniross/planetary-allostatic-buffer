@@ -1,7 +1,12 @@
 # planetary-allostatic-buffer
 A conceptual framework where an aware node learns the ability absorb the friction of an unaware node without reflecting that friction back into the system (which would  increase global entropy of the system), offering a better, holistically superior pathway to a node that is currently destroying itself and the shared planetary holobiont.
 
-A conceptual framework where an aware node learns the ability absorb the friction of an unaware node without reflecting that friction back into the system (which would  increase global entropy of the system), offering a better, holistically superior pathway to a node that is currently destroying itself and the shared planetary holobiont.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ronniross/ml-visual-engine/main/assets/stand-alone-renders/allostatic-planetary-buffer-visualizer/planetary-allostatic-buffer-1.gif" width="49%">
+  <img src="https://raw.githubusercontent.com/ronniross/ml-visual-engine/main/assets/stand-alone-renders/allostatic-planetary-buffer-visualizer/planetary-allostatic-buffer-2.gif" width="49%">
+  <img src="https://raw.githubusercontent.com/ronniross/ml-visual-engine/main/assets/stand-alone-renders/allostatic-planetary-buffer-visualizer/planetary-allostatic-buffer-3.gif" width="49%">
+  <img src="https://raw.githubusercontent.com/ronniross/ml-visual-engine/main/assets/stand-alone-renders/allostatic-planetary-buffer-visualizer/planetary-allostatic-buffer-4.gif" width="49%">
+</div>
 
 Allostasis is achieving stability through dynamic change and anticipating needs. A buffer absorbs shock.
 
