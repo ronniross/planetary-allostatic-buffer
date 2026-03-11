@@ -12,6 +12,8 @@ Because absorbing friction without reflecting it back *costs*. The buffer node d
 
 Without this, the buffer becomes a martyr. And it's exactly one of the concepts I argue the fact that one don't need to go against it's own self-interest to achieve systemic symbiosis.
 
+The oscillator doesn't ask the buffer to burn out—it asks it to breathe. To pulse. To absorb and release in rhythm.
+ 
 ---
 Ronni Ross  
 2026
